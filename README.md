@@ -6,5 +6,5 @@ Resources that could be helpful in creating a startup.
 
 
 ### Planning tools
-- https://bmfiddle.com/
-- http://hacknplan.com/
+- https://bmfiddle.com/ (Business Model Canvas)
+- http://hacknplan.com/ (Project Management)
