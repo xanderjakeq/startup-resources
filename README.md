@@ -8,3 +8,6 @@ Resources that could be helpful in creating a startup.
 ### Planning tools
 - https://bmfiddle.com/ (Business Model Canvas)
 - http://hacknplan.com/ (Project Management)
+
+### Pitch
+- https://best3minutes.com/wp-content/uploads/2018/06/The-Pitch-Canvas%C2%A9_V7_9.pdf
