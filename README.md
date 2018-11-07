@@ -15,3 +15,6 @@ Resources that could be helpful in creating a startup.
 ### WebDev
 - [Create Reactjs with Express Backend](https://daveceddia.com/create-react-app-express-backend/)
 - [Deploy Reactjs with Expressjs to Heroku](https://daveceddia.com/deploy-react-express-app-heroku/)
+
+### MobileDev
+- [Fast apps with Jasonette](http://jasonette.com/)
