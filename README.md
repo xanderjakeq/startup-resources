@@ -10,7 +10,8 @@ Resources that could be helpful in creating a startup.
 
 ### Planning tools
 - [Business Model Canvas](https://bmfiddle.com/)
-- [Project Management](http://hacknplan.com/)
+- [Hack'n Plan](http://hacknplan.com/)
+- [Taiga.io](https://taiga.io/)
 
 ### Pitch
 - [Best3Minutes](https://best3minutes.com/wp-content/uploads/2018/06/The-Pitch-Canvas%C2%A9_V7_9.pdf)
