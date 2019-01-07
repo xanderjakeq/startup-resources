@@ -24,5 +24,6 @@ Resources that could be helpful in creating a startup.
 - [Fast apps with Jasonette](http://jasonette.com/)
 - [remote build](https://appcenter.ms/apps)
 
-### GrowthHacks
+### Community Building
 - [GrowthList](https://www.thegrowthlist.co/)
+- [Brick by Brick](http://www.communitybuildingguide.com/)
