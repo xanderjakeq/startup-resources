@@ -16,6 +16,9 @@ Resources that could be helpful in creating a startup.
 ### Pitch
 - [Best3Minutes](https://best3minutes.com/wp-content/uploads/2018/06/The-Pitch-Canvas%C2%A9_V7_9.pdf)
 
+### Design
+- [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
+
 ### WebDev
 - [Create Reactjs with Express Backend](https://daveceddia.com/create-react-app-express-backend/)
 - [Deploy Reactjs with Expressjs to Heroku](https://daveceddia.com/deploy-react-express-app-heroku/)
