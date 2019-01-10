@@ -18,6 +18,7 @@ Resources that could be helpful in creating a startup.
 
 ### Design
 - [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
+- [Evernote.Design (list of resources)](https://www.evernote.design/) 
 
 ### WebDev
 - [Create Reactjs with Express Backend](https://daveceddia.com/create-react-app-express-backend/)
