@@ -33,3 +33,7 @@ Resources that could be helpful in creating a startup.
 ### Community Building
 - [GrowthList](https://www.thegrowthlist.co/)
 - [Brick by Brick](http://www.communitybuildingguide.com/)
+
+### For socials
+- [Carbon](https://carbon.now.sh/?bg=rgba(171%2C%20184%2C%20195%2C%201)&t=seti&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false): share beautiful images of your source code.
+- [Screely](https://www.screely.com/): turn screenshots to design mockups
