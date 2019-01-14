@@ -25,6 +25,7 @@ Resources that could be helpful in creating a startup.
 - [Deploy Reactjs with Expressjs to Heroku](https://daveceddia.com/deploy-react-express-app-heroku/)
 - [Html Reference](https://htmlreference.io/)
 - [Css Reference](https://cssreference.io/)
+- [Feather Icons](https://feathericons.com/) - free beautiful icons!
 
 ### MobileDev
 - [Fast apps with Jasonette](http://jasonette.com/)
