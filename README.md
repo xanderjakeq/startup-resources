@@ -26,7 +26,7 @@ Resources that could be helpful in creating a startup.
 - [Html Reference](https://htmlreference.io/)
 - [Css Reference](https://cssreference.io/)
 - [Feather Icons](https://feathericons.com/) - free beautiful icons!
-
+- [ProgressBars](https://kimmobrunfeldt.github.io/progressbar.js/)
 ### MobileDev
 - [Fast apps with Jasonette](http://jasonette.com/)
 - [remote build](https://appcenter.ms/apps)
