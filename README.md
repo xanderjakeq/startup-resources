@@ -7,6 +7,7 @@ Resources that could be helpful in creating a startup.
 ### Learning
 - [How to build a startup by Steve Blank](https://www.youtube.com/watch?v=VZvgj6B2JZs&list=PLAwxTw4SYaPnxzSuovATBMrNowGaaEBmW)
 - [Google for entrepreneurs youtube channel](https://www.youtube.com/user/Google4Entrepreneurs/)
+- [A Strategy Framework](http://smarterstartup.org/)
 
 ### Planning tools
 - [Business Model Canvas](https://bmfiddle.com/)
