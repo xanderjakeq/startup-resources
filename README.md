@@ -5,6 +5,7 @@ Resources that could be helpful in creating a startup.
 - [Should you make it?](https://blurt.app/should-you-make-it)
 
 ### Learning
+- [TechStars Toolkit](https://toolkit.techstars.com/)
 - [How to build a startup by Steve Blank](https://www.youtube.com/watch?v=VZvgj6B2JZs&list=PLAwxTw4SYaPnxzSuovATBMrNowGaaEBmW)
 - [Google for entrepreneurs youtube channel](https://www.youtube.com/user/Google4Entrepreneurs/)
 - [A Strategy Framework](http://smarterstartup.org/)
