@@ -23,6 +23,7 @@ Resources that could be helpful in creating a startup.
 - [Evernote.Design (list of resources)](https://www.evernote.design/) 
 - [Font Pairing](https://fontjoy.com/)
 - [Vector Animations](https://www.2dimensions.com)
+- [Whimsical](https://whimsical.com/) - simple tool for UI design
 
 ### WebDev
 - [Create Reactjs with Express Backend](https://daveceddia.com/create-react-app-express-backend/)
