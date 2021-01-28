@@ -11,7 +11,7 @@ Resources that could be helpful in creating a startup.
 - [A Strategy Framework](http://smarterstartup.org/)
 
 ### Planning tools
-- [Business Model Canvas](https://bmfiddle.com/)
+- [Business Model Canvas](https://canvanizer.com/choose/business-model-canvases)
 - [Hack'n Plan](http://hacknplan.com/)
 - [Taiga.io](https://taiga.io/)
 
